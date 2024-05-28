@@ -9,7 +9,7 @@
 > 
 > With this you can run Windows on Linux, Ubuntu, Debian and so on
 > 
-> Exemple iso "https://drive.massgravel.workers.dev/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso" Windows Ltsc 2021
+> Exemple iso "https://go.microsoft.com/fwlink/?linkid=2270353&clcid=0x409&culture=en-us&country=us" Windows 11 Ltsc
 >
 > Don't use this script for anything illegal! 
 
@@ -23,7 +23,7 @@
 cd /tmp && sudo rm -r * && clear
 ```
 ```bash
-wget -O win.iso "https://drive.massgravel.workers.dev/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso"
+wget -O win.iso "https://go.microsoft.com/fwlink/?linkid=2270353&clcid=0x409&culture=en-us&country=us"
 ```
 ```bash
 wget https://github.com/HindiaFtNpc/WindowsLinucx/raw/main/bios64.bin
