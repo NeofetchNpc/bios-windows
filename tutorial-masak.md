@@ -1,0 +1,2 @@
+# masukan bumbu
+# duar meleduk
